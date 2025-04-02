@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 **사용 기술(Tech Stack)**
+## 💻 **사용 기술(Tech Stack)**
 
 ### **프로그래밍 언어**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,24 +33,26 @@
 
 ---
 
-## 🌟 **Mymo Care (개발 진행 중)**
-📅 **개발 기간**: 2024.01 - 진행 중  
+## 🧴 **Mymo Care (개발 진행 중)**  
+📆 **개발 기간**: 2024.01 - 진행 중  
 
-💡 **프로젝트 설명**  
-**Mymo Care**는 개인의 두피 상태를 분석하고, 맞춤형 식단 및 제품 추천을 제공하는 스마트 모바일 애플리케이션입니다.  
-이 프로젝트는 **2025 CES**에서 공개되어 긍정적인 피드백을 받은 혁신적 프로젝트입니다.
+🧠 **프로젝트 개요**  
+**Mymo Care**는 개인의 두피 상태를 분석하고, 맞춤형 식단 및 제품을 추천하는 스마트 모바일 애플리케이션입니다.  
+이 프로젝트는 **2025 CES**에서 공개되어 긍정적인 피드백을 받은 **혁신적인 헬스케어 서비스**입니다.
 
-✨ **핵심 역할**  
-- YOLO 기반 두피 상태 분석 알고리즘 설계  
-- Flutter를 활용한 크로스 플랫폼 앱 개발  
-- 맞춤형 추천 시스템 설계 및 데이터 처리  
+🔍 **주요 기여**  
+- 🧬 YOLO 기반 두피 상태 분석 알고리즘 설계  
+- 📱 Flutter를 활용한 크로스 플랫폼 앱 개발  
+- 🎯 맞춤형 추천 시스템 설계 및 데이터 처리  
 
-🛠️ **기술 스택**  
-- **Back-end**: Dart, YOLO,   
+🧰 **기술 스택**  
+- **Back-end**: Dart, YOLO  
 - **Front-end**: Flutter  
-- **Library**: FL Chart
+- **Library**: FL Chart  
 
-🔗 프로젝트 관련 이미지 및 설명은 [여기](https://github.com/hongjo-dev/scalp-analysis)에서 확인할 수 있습니다.
+📎 **자세한 정보**  
+프로젝트 관련 이미지 및 설명은 [여기](https://github.com/hongjo-dev/scalp-analysis)에서 확인할 수 있습니다.
+
 
 
 ## ✨ **관심 분야**
