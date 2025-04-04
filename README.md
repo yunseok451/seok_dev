@@ -33,25 +33,112 @@
 
 ---
 
-## 🧴 **Mymo Care (개발 진행 중)**  
-📆 **개발 기간**: 2024.01 - 진행 중  
+## 🤖 KU_Pepper (로봇 제어 프로젝트)
+📆 개발 기간: 2023.09 – 2023.12
 
-🧠 **프로젝트 개요**  
-**Mymo Care**는 개인의 두피 상태를 분석하고, 맞춤형 식단 및 제품을 추천하는 스마트 모바일 애플리케이션입니다.  
-이 프로젝트는 **2025 CES**에서 공개되어 긍정적인 피드백을 받은 **혁신적인 헬스케어 서비스**입니다.
+🧠 프로젝트 개요  
+KU_Pepper는 고려대학교 인공지능 및 로봇 연구 수업에서 진행된 프로젝트로,  
+휴머노이드 로봇 Pepper를 제어하여 대화형 서비스, 동작 인식, 사용자 반응 응답 기능을 구현하였습니다.  
+학생, 방문자 등 사람과 상호작용하는 로봇 서비스 시나리오를 직접 개발하고 시연하였습니다.
 
-🔍 **주요 기여**  
-- 🧬 YOLO 기반 두피 상태 분석 알고리즘 설계  
-- 📱 Flutter를 활용한 크로스 플랫폼 앱 개발  
-- 🎯 맞춤형 추천 시스템 설계 및 데이터 처리  
+🔍 주요 기여
+- 🤖 Python 기반 Pepper 로봇 모션/음성 제어 스크립트 작성
+- 🧠 감정 분류 및 반응 표현 알고리즘 구현
+- 🎤 음성 인식 및 사용자 대화 인터페이스 개발
+- 💬 한국어 기반 Pepper 대화 로직 개선 및 동작 연동
 
-🧰 **기술 스택**  
-- **Back-end**: Dart, YOLO  
-- **Front-end**: Flutter  
-- **Library**: FL Chart  
+🧰 기술 스택  
+- Platform: SoftBank Robotics Pepper  
+- Language: Python  
+- Library/SDK: NAOqi, qiChat, qiMotion
 
-📎 **자세한 정보**  
-프로젝트 관련 이미지 및 설명은 [여기](https://github.com/hongjo-dev/scalp-analysis)에서 확인할 수 있습니다.
+📎 자세한 정보  
+[KU_Pepper GitHub 바로가기](https://github.com/yunseok451/KU_Pepper)
+
+
+---
+
+## 🧒 Children_Playing (어린이 행동 인식 프로젝트)
+📆 개발 기간: 2024.03 – 2024.04
+
+🧠 프로젝트 개요  
+어린이의 다양한 신체 활동을 인식하기 위한 머신러닝 기반 행동 분석 모델을 개발한 프로젝트입니다.  
+AIHub의 어린이 행동 인식 데이터를 활용해 모델을 학습하고, 실제 환경에서의 행동 예측 성능을 평가하였습니다.
+
+🔍 주요 기여
+- 🎞 Skeleton 데이터 및 영상 기반 행동 인식 모델 학습
+- 📊 CNN + LSTM 기반 하이브리드 구조 실험
+- 🔍 전처리 및 클래스 불균형 문제 해결
+
+🧰 기술 스택  
+- Python, PyTorch, OpenCV, Pandas, NumPy
+
+📎 자세한 정보  
+[Children_Playing GitHub 바로가기](https://github.com/yunseok451/Children_Playing)
+
+
+---
+
+## 🍓 juicy (과채류 분석 어플리케이션)
+📆 개발 기간: 2024.02 – 2024.04
+
+🧠 프로젝트 개요  
+Juicy는 과일 및 채소를 이미지로 분석하고 분류하는 모바일 어플리케이션입니다.  
+딥러닝을 통해 과채류를 인식하고, 식품명 및 영양정보를 시각적으로 제공합니다.
+
+🔍 주요 기여
+- 🧠 TensorFlow Lite 기반 분류 모델 탑재
+- 📱 Flutter UI 설계 및 데이터 연동
+- 📤 Google Drive 모델 연동 및 다운로드 자동화 구현
+
+🧰 기술 스택  
+- Flutter, Dart, TensorFlow Lite, gdown
+
+📎 자세한 정보  
+[juicy GitHub 바로가기](https://github.com/yunseok451/juicy)
+
+
+---
+
+## 🔧 weld_defects (용접 결함 인식 프로젝트)
+📆 개발 기간: 2024.03 – 2024.04
+
+🧠 프로젝트 개요  
+AIHub 용접 데이터셋을 활용하여 육안검사(VT) 및 방사선 검사(RT)에서 용접 결함을 탐지하는 모델을 구축하였습니다.  
+Yolov5x-seg 모델 기반의 인스턴스 세그멘테이션 기법을 적용하였으며, 실제 산업환경에서 활용 가능한 구조로 개발되었습니다.
+
+🔍 주요 기여
+- 🔬 VT/RT 검사 데이터 분리 및 학습용 전처리
+- 🧠 Yolov5x-seg 기반 세그멘테이션 모델 학습
+- 🐳 Docker 기반 추론 환경 구축
+
+🧰 기술 스택  
+- Python, PyTorch, YOLOv5, Docker
+
+📎 자세한 정보  
+[weld_defects GitHub 바로가기](https://github.com/yunseok451/weld_defects)
+
+
+---
+
+## 💱 tradeup (주식 정보 요약 챗봇)
+📆 개발 기간: 2024.01 – 2024.02
+
+🧠 프로젝트 개요  
+TradeUp은 사용자의 관심 종목에 대한 주식 뉴스, 시세, 기업 정보 등을 요약 제공하는 챗봇 시스템입니다.  
+데이터 수집 및 요약, 사용자 질문 응답, 종목 추천 기능을 포함하며 금융 리터러시 향상에 도움을 줍니다.
+
+🔍 주요 기여
+- 💬 뉴스 크롤링 및 요약 자동화
+- 📈 주가 데이터 시각화 및 통계 연산
+- 🤖 GPT API 연동 질문 응답 시스템 구축
+
+🧰 기술 스택  
+- Python, BeautifulSoup, OpenAI API, matplotlib
+
+📎 자세한 정보  
+[TradeUp GitHub 바로가기](https://github.com/yunseok451/tradeup)
+
 
 
 
